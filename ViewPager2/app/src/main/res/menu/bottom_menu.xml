@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/first"
+        android:icon="@drawable/ic_baseline_1k_24"
+        android:title="1K" />
+
+    <item
+        android:id="@+id/second"
+        android:icon="@drawable/ic_baseline_2k_24"
+        android:title="2K" />
+
+    <item
+        android:id="@+id/third"
+        android:icon="@drawable/ic_baseline_4k_24"
+        android:title="4K" />
+
+</menu>
